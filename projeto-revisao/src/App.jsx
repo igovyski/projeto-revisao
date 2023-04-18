@@ -1,4 +1,4 @@
-import '/App.css'
+import './App.css'
 import Header from './components/Header'
 import Textos from './components/Textos'
 import Tabela from './components/Tabela'

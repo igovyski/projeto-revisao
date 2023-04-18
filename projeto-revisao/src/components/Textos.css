@@ -1,0 +1,35 @@
+.Timao {
+    max-width: 10rem;
+}
+
+.a {
+    font-size: 1.5rem;
+    color: #000000;
+    font-weight: bold;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.b {
+    font-size: 1.5rem;
+    color: #1D1D1D;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.c {
+    font-size: 1.5rem;
+    color: #5B5B5B;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.d {
+    font-size: 1.5rem ;
+    color: #FF0000;
+    font-weight: bold;
+    text-transform: none;
+    font-family: fantasy;
+}
